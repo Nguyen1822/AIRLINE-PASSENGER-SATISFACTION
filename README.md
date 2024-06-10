@@ -1,5 +1,5 @@
-**Dictionary
-**
+**Dictionary**
+
 Gender: Gender of the passengers (Female, Male)
 
 Customer Type: The customer type (Loyal customer, disloyal customer)
